@@ -13,7 +13,7 @@ This is the list of modules that are currently installed and active on the serve
 #### Improvements for Everyone
 
 | | Module | Description | Usage Notes  |
-| - | - | - | :-: -  |
+| - | - | - | - |
 | 1 | Name | Description | Notes |
 | 11 | Name | Notes | Usage Notes |
 | 2 | [Dice So Nice!](https://foundryvtt.com/packages/dice-so-nice) | Adds animation of dice rolling across the screen. | (Notes) |
