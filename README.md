@@ -16,7 +16,7 @@ This is the list of modules that are currently installed and active on the serve
 | - | - | - | - |
 | 1 | Name | Description | Notes |
 | 11 | Name | Notes | Usage Notes |
-| 2 | [Dice So Nice!](https://foundryvtt.com/packages/dice-so-nice) | Adds animation of dice rolling across the screen. | (Notes) |
+| :star: | [Dice So Nice!](https://foundryvtt.com/packages/dice-so-nice) | Adds animation of dice rolling across the screen. | (Notes) |
 | 3 | [Ping](https://foundryvtt.com/packages/pings/) | Players and GM can ping a location on the map | - Left Click to ping - Shift + Left Click to move everyone's view to your ping |
 | 4 | Chat Portrait | Notes | Usage Notes |
 | 5 | [Quick Insert - Search Widget](https://foundryvtt.com/packages/quick-insert) | Notes | Usage Notes |
