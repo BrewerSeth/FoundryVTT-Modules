@@ -22,13 +22,12 @@ This is the list of modules that are currently installed and active on the serve
 | 5 | [Quick Insert - Search Widget](https://foundryvtt.com/packages/quick-insert) | Notes | Usage Notes |
 | 6 | [Monk's Enhanced Journal](https://github.com/ironmonk88/monks-enhanced-journal) | Notes | Usage Notes |
 | 7 | AutoComplete Whisper | Notes | Usage Notes |
-| 8 | Name | Notes | Usage Notes |
-| 9 | Name | Notes | Usage Notes |
-| 10 | Name | Notes | Usage Notes |
+| :star: | [Zoom/Pan Options](https://foundryvtt.com/packages/zoom-pan-options) | Changes zooming and panning through the mouse or a touchpad. | When you scroll in on the mouse wheel, it centers on the mouse. Also allows for panning the scene using a swipe motion on multitouch trackpad. This is just how things should work. |
+| 9 | [Show Notes](https://foundryvtt.com/packages/foundryvtt-show-notes) | Journal notes show on the map without having to have your players turn it on themselves. | This works as long as you don't have a lot of clutter on the maps. This still honors the visibility of the journal entry, unfortunately there isn't a visual indicator on the map on what players can see. You can toggle visibility by clicking the icon and changing the visibility state. If a player doesn't have access to the journal, they can't see the map note. I use this for the landing page. |
+| 10 | [Turn Marker] | Notes | Shows an icon under the token whos current turn it is. Icon spins when the game is not paused. Announces in the chat what players turn it is. Also places a "ball marker" on the location where a token started the turn. |
 | 11 | Name | Notes | Usage Notes |
 
 
-- AutoComplete Whisper
 - Chat Images
 - Chat Message Accessibility Indicators
 - Escape Window
@@ -44,11 +43,10 @@ This is the list of modules that are currently installed and active on the serve
 - Selective Show
 - Settings Extender
 - Soundboard by Blitz
-
 - Tidy UI - Game settings
 - Tolken Mold
 - Tokenizer
-- Turn Marker
+
 
 #### Improvements for Journals and World Building
 
@@ -77,19 +75,14 @@ This is the list of modules that are currently installed and active on the serve
 - [SBC | StatBlock-Converter for Pathfinder 1E](https://github.com/Lavaeolous/PF1-StatBlock-Converter-Module)
 
 
-
 ## Tentative and Testing Modules
 
 This list is for modules that I want to try out.
 
 - Combat Ready!
 - FXMaster
-- Show Drag Distance
-- Show Notes
-- Zoom/Pan Options
 - Torch
 - Token Action HUD
-
 - Bellows
 - Combat Enchancements
 - Forien's Copy Environment
@@ -109,8 +102,8 @@ This list is for modules that I want to try out.
 
 A list of modules that I am no longer using and why.
 
-- One
-- Two
+- Show Drag Distance - I will look into this later, but I think this can be solved with the tools in the core.
+
 -----------
 
 ## Additional Resources
