@@ -6,6 +6,10 @@ If your want to read up on my notes and tips for hosting FoundryVTT with [Molten
 
 This list is mostly for me to track and organize the modules, but I have posted it public for anyone that might be interested. Shout out to [Bryans-Preferred-Modules-for-FoundryVTT](https://github.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT) for being the inspiration for me to try to learn and track this on GitHub.
 
+## My Module Preferences
+
+I prefer to use modules that are built with one purpose. I am not a big fan of all encompassing "Quality of Life Modules". I also prefer modules that have active development and support.
+
 ## Active "Must Have" Modules
 
 This is the list of modules that are currently installed and active on the server. This list will have a link to the resource page of the module and a short desription of what the module is.
@@ -15,7 +19,7 @@ This is the list of modules that are currently installed and active on the serve
 | | Module | Description | Usage Notes  |
 | - | - | - | - |
 | 1 | Name | Description | Notes |
-| 11 | Name | Notes | Usage Notes |
+| 11 | [Escape Window](https://foundryvtt.com/packages/escape-window) | Change the behavior of the ESC key from closing all windows to minimizing them. | Hitting the "ESC" key usually closes the window. I don't like that. So this module changes it to just minimize the window. |
 | :star: | [Dice So Nice!](https://foundryvtt.com/packages/dice-so-nice) | Adds animation of dice rolling across the screen. | (Notes) |
 | 3 | [Ping](https://foundryvtt.com/packages/pings/) | Players and GM can ping a location on the map | - Left Click to ping - Shift + Left Click to move everyone's view to your ping |
 | 4 | Chat Portrait | Notes | Usage Notes |
@@ -30,14 +34,14 @@ This is the list of modules that are currently installed and active on the serve
 
 - Chat Images
 - Chat Message Accessibility Indicators
-- Escape Window
+-
 - Health Monitor
 - Initiative Double click
 - Lock View
 - Minimal UI
 - Molten module
 - Multilevel Tokens
-- Mulitple Wall Point Mover
+
 - Ping Logger
 - PopOut!
 - Selective Show
@@ -49,6 +53,12 @@ This is the list of modules that are currently installed and active on the serve
 
 
 #### Improvements for Journals and World Building
+
+| | Module | Description | Usage Notes  |
+| - | - | - | - |
+| 1 | Name | Description | Notes |
+| 1 | Name | Description | Notes |
+| 1 | Name | Description | Notes |
 
 - Trigger Happy
 - Keybind Lib
@@ -63,17 +73,38 @@ This is the list of modules that are currently installed and active on the serve
 
 #### Improvements for Game Masters
 
+| | Module | Description | Usage Notes  |
+| - | - | - | - |
+| 1 | Name | Description | Notes |
+| 1 | Name | Description | Notes |
+| 1 | Name | Description | Notes |
+
+- Mulitple Wall Point Mover
+
 #### Streaming and Game Recording Modules
 - Discord Connect
-- StreamView
+
+| | Module | Description | Usage Notes  |
+| - | - | - | - |
+| 1 | [Stream View](https://foundryvtt.com/packages/stream-view) | Provides a minimal UI view with automated camera work. | This is a must have for streaming. To set this up, you create an "Observer" ghost player. This module then cleans up the UI for that player and automatically moves the camera around for that player. I uses this view to record/stream the game sessions with OBS. The camera is set to automatically follow the action. |
+| 1 | Name | Description | Notes |
+| 1 | Name | Description | Notes |
 
 #### Pathfinder 1E Specific Modules
+
+| | Module | Description | Usage Notes  |
+| - | - | - | - |
+| 1 | Name | Description | Notes |
+| 1 | Name | Description | Notes |
+| 1 | Name | Description | Notes |
+
 - Koboldworks - Item Hints for Pathfinder 1e
 - Pathfinder 1e Archetypes and Abilities
 - Pathfinder 1e content
 - Pathfiner 1e Statblock Library
 - [SBC | StatBlock-Converter for Pathfinder 1E](https://github.com/Lavaeolous/PF1-StatBlock-Converter-Module)
 
+#### My Runelords Game Specific Modules
 
 ## Tentative and Testing Modules
 
