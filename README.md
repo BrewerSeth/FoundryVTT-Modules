@@ -27,7 +27,6 @@ This is the list of modules that are currently installed and active on the serve
 | 10 | Name | Notes | Usage Notes |
 | 11 | Name | Notes | Usage Notes |
 
- - Configuration Notes Here
 
 - AutoComplete Whisper
 - Chat Images
