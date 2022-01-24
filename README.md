@@ -12,7 +12,7 @@ I prefer to use modules that are built with one purpose. I am not a big fan of a
 
 I also prefer modules that don't take a million hours to attempt to set up.
 
-Finally
+Finally,
 
 ## Active "Must Have" Modules
 
@@ -121,7 +121,7 @@ This list is for modules that I want to try out.
 !!! MIDI QOL - Lots of workflow (But does this work with PF1e)
 
 
-- DF Chat Enchancements
+- DF Chat Enhancements -- Do neeed this, how is it different from Chat Portrait?
 - DF Curvy Walls
 - DF Scene Enchancements
 - DF Settings Clarity
