@@ -12,7 +12,7 @@ I prefer to use modules that are built with one purpose. I am not a big fan of a
 
 I also prefer modules that don't take a million hours to attempt to set up.
 
-Finally,
+Finally, I should put something clever here.
 
 ## Active "Must Have" Modules
 
