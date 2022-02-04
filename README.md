@@ -29,22 +29,18 @@ This is the list of modules that are currently installed and active on the serve
 | | [Dice Tray](https://foundryvtt.com/packages/dice-calculator) | Adds a dice tray below the chat message area and turns the d20 icon near the chat prompt into a clickable link | This allows for me to click quickly on the dice I want to roll. Sure I could type /r 1d20 but this reduces the total button clicks to make that happen |
 | | [Escape Window](https://foundryvtt.com/packages/escape-window) | Change the behavior of the ESC key from closing all windows to minimizing them. | Hitting the "ESC" key usually closes the window. I don't like that. So this module changes it to just minimize the window. |
 | :star: | [Initiative Double Click](https://foundryvtt.com/packages/initiative-double-click) | Description | Simple module to allow to change the Initiative number. With out this, you need to right click the actor and open a menu. This eliminates a few clicks. |
-| - | Minimal UI | - | - |
+| | [Minimal UI](https://foundryvtt.com/packages/minimal-ui) | Configurable UI module, allows the user to hide, collapse or auto-hide components separately. | This is an overhaul of the interface. I love the minimal interface so things slide out of the way when we are playing. |
 | :star: | [Ping](https://foundryvtt.com/packages/pings/) | Players and GM can ping a location on the map | This really should be in core. Left Click to ping the map. Shift + Left Click to move everyone's view to your ping. I do wish the ping icon was a global setting and not a per player setting. |
-| 3 | [PopOut!](https://foundryvtt.com/packages/popout/) | The PopOut! button allows you to open a sheet/application/document into its own window, for easier viewing or for use with multiple monitors. |
-| 5 | [Quick Insert - Search Widget](https://foundryvtt.com/packages/quick-insert) | Notes | This is a must have. I love using Spotlight on my Mac. This is SpotLight for Foundry. |
+| | [PopOut!](https://foundryvtt.com/packages/popout/) | The PopOut! button allows you to open a sheet/application/document into its own window, for easier viewing or for use with multiple monitors. |
+| | [Quick Insert - Search Widget](https://foundryvtt.com/packages/quick-insert) | Notes | This is a must have. I love using Spotlight on my Mac. This is SpotLight for Foundry. |
 | :star: | [Zoom/Pan Options](https://foundryvtt.com/packages/zoom-pan-options) | Changes zooming and panning through the mouse or a touchpad. | When you scroll in on the mouse wheel, it centers on the mouse. Also allows for panning the scene using a swipe motion on multitouch trackpad. This is just how things should work. |
 | | [Turn Marker](https://foundryvtt.com/packages/turnmarker/) | Notes | Shows an icon under the token whos current turn it is. Icon spins when the game is not paused. Announces in the chat what players turn it is. Also places a "ball marker" on the location where a token started the turn. |
 | 11 | [Library Chat Commands](https://foundryvtt.com/packages/_chatcommands/) | Notes | This provides a guide when using "/" in the chat window. It pops up the common commands like Whisper and Roll. I am sure this module does other things, but I like the type ahead option. |
-
-- Selective Show
-- Settings Extender
 
 #### Improvements for Journals and World Building
 
 | | Module | Description | Usage Notes  |
 | - | - | - | - |
-| - | Compendium Folders | - | - |
 | 6 | [Monk's Enhanced Journal](https://github.com/ironmonk88/monks-enhanced-journal) | Notes | Usage Notes |
 | 9 | [Show Notes](https://foundryvtt.com/packages/foundryvtt-show-notes) | Journal notes show on the map without having to have your players turn it on themselves. | This works well as long as you don't have a lot of clutter on the maps. This still honors the visibility of the journal entry, unfortunately there isn't a visual indicator on the map on what players can see. You can toggle visibility by clicking the icon and changing the visibility state. If a player doesn't have access to the journal, they can't see the map note. I use this for the landing page. |
 | 1 | Name | Description | Notes |
@@ -53,10 +49,11 @@ This is the list of modules that are currently installed and active on the serve
 
 | | Module | Description | Usage Notes  |
 | - | - | - | - |
-| 1 | Name | Description | Notes |
+| :star: | [Compendium Folders](https://foundryvtt.com/packages/compendium-folders) | Adds a nested folder structure to organize your compendiums, and to organize contents of a compendium. | This really should be in core. With a bunch of compendiums (like PF1 content) it is nice to stay organized. |
 | 4 | [Chat Message Accessibility Indicators]() | Notes | |
 | 1 | Trigger Happy | Description | Notes |
 | - | Tokenizer | - | - |
+| - | [Selective Show](https://foundryvtt.com/packages/selectiveshow/) | Ability to selectively choose who to show journal entries to. | Simple plugin to allow GM to allow journal entries to specific players. |
 | 1 | Mulitple Wall Point Mover | Description | Notes |
 | 1 | DF Curvy Walls | Description | Notes |
 | 1 | DF Settings Clarity | Description | Notes |
@@ -64,6 +61,7 @@ This is the list of modules that are currently installed and active on the serve
 | 1 | libWrapper | Description | Needed for StreamView, DF Curvy Walls, DF Settings Clarity|
 | 1 | socketlib | Description | Needed for StreamView Plugin |
 | 1 | lib - Color settings | Description | Needed for Plugin |
+| 1 | Settings Extender | Description | Needed for Ping Plugin |
 
 - Multilevel Tokens
 
