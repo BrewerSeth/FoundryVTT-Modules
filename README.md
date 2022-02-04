@@ -12,7 +12,7 @@ I prefer to use modules that are built with one purpose. I am not a big fan of a
 
 I also prefer modules that don't take a million hours to attempt to set up.
 
-Finally,
+Finally, I should put something clever here.
 
 ## Active "Must Have" Modules
 
@@ -22,31 +22,23 @@ This is the list of modules that are currently installed and active on the serve
 
 | | Module | Description | Usage Notes  |
 | - | - | - | - |
-| 1 | Name | Description | Notes |
 | :star: | [AutoComplete Whisper](https://foundryvtt.com/packages/autocomplete-whisper/) | Whisper quicker with typeahead autocomplete suggestions and popup menu of available whisper targets! | This really should be part of the core program. This simple does an auto suggestions when you are whispering messages to other players. |
-| 11 | [Escape Window](https://foundryvtt.com/packages/escape-window) | Change the behavior of the ESC key from closing all windows to minimizing them. | Hitting the "ESC" key usually closes the window. I don't like that. So this module changes it to just minimize the window. |
-| :star: | [Dice So Nice!](https://foundryvtt.com/packages/dice-so-nice) | Adds animation of dice rolling across the screen. | (Notes) |
-| 4 | [Chat Portrait](https://foundryvtt.com/packages/chat-portrait) | Notes | I like that this adds the portrait to the chat, but I really like that it can be configured to change the chat color and border to match the player color. This is a nice visual cue for the stream and makes it easy to scroll back on the chat and see what each player did. |
-| 4 | [Dice Tray]() | Notes |  |
-| 3 | [Ping](https://foundryvtt.com/packages/pings/) | Players and GM can ping a location on the map | - Left Click to ping - Shift + Left Click to move everyone's view to your ping |
-| 3 | [PopOut!](https://foundryvtt.com/packages/popout/) | The PopOut! button allows you to open a sheet/application/document into its own window, for easier viewing or for use with multiple monitors. |
-| 5 | [Quick Insert - Search Widget](https://foundryvtt.com/packages/quick-insert) | Notes | Usage Notes |
-| :star: | [Zoom/Pan Options](https://foundryvtt.com/packages/zoom-pan-options) | Changes zooming and panning through the mouse or a touchpad. | When you scroll in on the mouse wheel, it centers on the mouse. Also allows for panning the scene using a swipe motion on multitouch trackpad. This is just how things should work. |
-| 10 | [Turn Marker](https://foundryvtt.com/packages/turnmarker/) | Notes | Shows an icon under the token whos current turn it is. Icon spins when the game is not paused. Announces in the chat what players turn it is. Also places a "ball marker" on the location where a token started the turn. |
 | 11 | [Chat Images](https://foundryvtt.com/packages/chat-images) | Notes | Usage Notes |
+| :star: | [Dice So Nice!](https://foundryvtt.com/packages/dice-so-nice) | Adds animation of dice rolling across the screen. | (Notes) |
+| | [Chat Portrait](https://foundryvtt.com/packages/chat-portrait) | Notes | I like that this adds the portrait to the chat, but I really like that it can be configured to change the chat color and border to match the player color. This is a nice visual cue for the stream and makes it easy to scroll back on the chat and see what each player did. I like when the players use the same colors for their chat, tokens and 3d dice. It helps follow the action on the video recordings. |
+| | [Dice Tray](https://foundryvtt.com/packages/dice-calculator) | Adds a dice tray below the chat message area and turns the d20 icon near the chat prompt into a clickable link | This allows for me to click quickly on the dice I want to roll. Sure I could type /r 1d20 but this reduces the total button clicks to make that happen |
+| | [Escape Window](https://foundryvtt.com/packages/escape-window) | Change the behavior of the ESC key from closing all windows to minimizing them. | Hitting the "ESC" key usually closes the window. I don't like that. So this module changes it to just minimize the window. |
+| :star: | [Initiative Double Click](https://foundryvtt.com/packages/initiative-double-click) | Description | Simple module to allow to change the Initiative number. With out this, you need to right click the actor and open a menu. This eliminates a few clicks. |
+| - | Minimal UI | - | - |
+| :star: | [Ping](https://foundryvtt.com/packages/pings/) | Players and GM can ping a location on the map | This really should be in core. Left Click to ping the map. Shift + Left Click to move everyone's view to your ping. I do wish the ping icon was a global setting and not a per player setting. |
+| 3 | [PopOut!](https://foundryvtt.com/packages/popout/) | The PopOut! button allows you to open a sheet/application/document into its own window, for easier viewing or for use with multiple monitors. |
+| 5 | [Quick Insert - Search Widget](https://foundryvtt.com/packages/quick-insert) | Notes | This is a must have. I love using Spotlight on my Mac. This is SpotLight for Foundry. |
+| :star: | [Zoom/Pan Options](https://foundryvtt.com/packages/zoom-pan-options) | Changes zooming and panning through the mouse or a touchpad. | When you scroll in on the mouse wheel, it centers on the mouse. Also allows for panning the scene using a swipe motion on multitouch trackpad. This is just how things should work. |
+| | [Turn Marker](https://foundryvtt.com/packages/turnmarker/) | Notes | Shows an icon under the token whos current turn it is. Icon spins when the game is not paused. Announces in the chat what players turn it is. Also places a "ball marker" on the location where a token started the turn. |
 | 11 | [Library Chat Commands](https://foundryvtt.com/packages/_chatcommands/) | Notes | This provides a guide when using "/" in the chat window. It pops up the common commands like Whisper and Roll. I am sure this module does other things, but I like the type ahead option. |
 
-
-- Initiative Double click (Do I need this?)
-- Minimal UI
-- Molten module
-- Multilevel Tokens
-- Ping Logger
 - Selective Show
 - Settings Extender
-- Tolken Mold
-- Tokenizer
-
 
 #### Improvements for Journals and World Building
 
@@ -64,6 +56,7 @@ This is the list of modules that are currently installed and active on the serve
 | 1 | Name | Description | Notes |
 | 4 | [Chat Message Accessibility Indicators]() | Notes | |
 | 1 | Trigger Happy | Description | Notes |
+| - | Tokenizer | - | - |
 | 1 | Mulitple Wall Point Mover | Description | Notes |
 | 1 | DF Curvy Walls | Description | Notes |
 | 1 | DF Settings Clarity | Description | Notes |
@@ -72,9 +65,7 @@ This is the list of modules that are currently installed and active on the serve
 | 1 | socketlib | Description | Needed for StreamView Plugin |
 | 1 | lib - Color settings | Description | Needed for Plugin |
 
-
-
-
+- Multilevel Tokens
 
 #### Streaming and Game Recording Modules
 
@@ -97,10 +88,15 @@ This is the list of modules that are currently installed and active on the serve
 
 #### My Runelords Game Specific Modules
 
+| | Module | Description | Usage Notes  |
+| - | - | - | - |
+
+Molten module
+
+
 ## Tentative and Testing Modules
 
 This list is for modules that I want to try out and need more evaluation.
-
 
 - Combat Carousal
 - FXMaster
@@ -109,20 +105,17 @@ This list is for modules that I want to try out and need more evaluation.
 - Bellows
 - Combat Enchancements
 - Forien's Copy Environment
-
 - VTTA Tokesn
 - JB2A Animations <--- Pile of Animations to put on the map
 - Automated Animations
 - Health Monitor (DO I need this?)
 - Advanved Macros
-
-!!! MIDI QOL - Lots of workflow (But does this work with PF1e)
-
 - DF Chat Enhancements -- Do neeed this, how is it different from Chat Portrait?
 - DF Scene Enchancements
 - DFred Droppables
-
 - Splatter
+- Tolken Mold
+!!! MIDI QOL - Lots of workflow (But does this work with PF1e)
 
 
 ## Archived or Retired Modules
@@ -141,6 +134,7 @@ A list of modules that I am no longer using and why.
 - Table Top RPG Music - removed this in favor of Syrinscape - Allows for smaller game footprint on the server
 - libCaptions
 - FPS Meter - No Longer needed. In Core.
+- Ping Logger - Installed it for a little bit to track performance for players overseas.
 
 -----------
 
