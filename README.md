@@ -1,8 +1,8 @@
 ## Welcome to BrewerSeth's FoundryVTT Module Pages
 
-This page is set up to track the modules that I am currently running in my Rise of The Runelords Pathfinder 1E game using [FoundryVTT](https://foundryvtt.com/). The game in currently hosted on [Molten Hosting](https://moltenhosting.com/)
+This page is set up to track the modules that I am currently running in my Rise of The Runelords Pathfinder 1E game using [FoundryVTT](https://foundryvtt.com/). 
 
-If your want to read up on my notes and tips for hosting FoundryVTT with [Molten Hosting](https://moltenhosting.com/) click here.
+I am hosting this game on a virtual server at my house. I am using ProxMox as the host.
 
 This list is mostly for me to track and organize the modules, but I have posted it public for anyone that might be interested. Shout out to [Bryans-Preferred-Modules-for-FoundryVTT](https://github.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT) for being the inspiration for me to try to learn and track this on GitHub.
 
@@ -12,16 +12,14 @@ I prefer to use modules that are built with one purpose. I am not a big fan of a
 
 I also prefer modules that don't take a million hours to attempt to set up.
 
-Finally,
-
 ## Active "Must Have" Modules
 
 This is the list of modules that are currently installed and active on the server. This list will have a link to the resource page of the module and a short desription of what the module is.
 
 #### Improvements for Everyone
 
-| | Module | Description | Usage Notes  |
-| - | - | - | - |
+| | Module | Description | Usage Notes  | Version Support |
+| - | - | - | - | - |
 | 1 | Name | Description | Notes |
 | :star: | [AutoComplete Whisper](https://foundryvtt.com/packages/autocomplete-whisper/) | Whisper quicker with typeahead autocomplete suggestions and popup menu of available whisper targets! | This really should be part of the core program. This simple does an auto suggestions when you are whispering messages to other players. |
 | 11 | [Escape Window](https://foundryvtt.com/packages/escape-window) | Change the behavior of the ESC key from closing all windows to minimizing them. | Hitting the "ESC" key usually closes the window. I don't like that. So this module changes it to just minimize the window. |
@@ -148,6 +146,7 @@ A list of modules that I am no longer using and why.
 
 
 ## BrewerSeth's TTRPG Repositories
+
 <!--
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
